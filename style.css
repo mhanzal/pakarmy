@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #d32f2f !important;
+}
+
+
+.nav-link {
+    color: white !important;
+    font-weight: bold;
+}
+
+.navbar ul li {
+    padding-left:25px;
+}
+
+.fa-shopping-cart,.fa-user-circle,.fa-check {
+        font-size: 20px !important;
+}
+
+.fa-truck,.fa-headphones,.fa-check {
+    font-size: 50px !important;
+    color: #d32f2f !important;
+}
